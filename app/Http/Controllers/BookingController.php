@@ -25,7 +25,7 @@ class BookingController extends Controller
 
     public function cancel(Booking $booking)
     {
-        $this->authorize('cancel', $booking);
+//        $this->authorize('cancel', $booking);
 
         $booking->update(['status' => StatusEnum::CANCELLED->value]);
 

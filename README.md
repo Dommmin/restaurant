@@ -6,3 +6,8 @@
 This is Restaurant App. <br>
 You can make reservations and order food to your table.
 It also includes payments (Przelewy24).
+
+<br>
+
+// TODO
+- Add Admin Panel for table / food / menu / orders management

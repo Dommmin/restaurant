@@ -2,6 +2,7 @@
     <img src="/public/table-list.png" alt="Table List" />
     <img src="/public/table.png" alt="Table" />
     <img src="/public/menu.png" alt="Menu" />
+    <img src="/public/reservations.png" alt="Reservations" />
 </div>
 This is Restaurant App. <br>
 You can make reservations and order food to your table.

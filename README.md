@@ -1,2 +1,8 @@
-This is Restaurant App.
+<div>
+    <img src="/public/table-list.png" alt="Table List" />
+    <img src="/public/table.png" alt="Table" />
+    <img src="/public/menu.png" alt="Menu" />
+</div>
+This is Restaurant App. <br>
 You can make reservations and order food to your table.
+It also includes payments (Przelewy24).
